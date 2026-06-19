@@ -1,0 +1,1238 @@
+{
+  "metadata": {
+    "title": "Engineering Practicum IV Honors",
+    "description": "A capstone course in which high school honors students apply the engineering design process to real-world problems, examine ethics and intellectual property, build career readiness skills, and complete an original practicum project.",
+    "creator": "Engineering Practicum IV Honors Course",
+    "date": "2026-06-18",
+    "version": "1.0",
+    "format": "Learning Graph JSON v1.0",
+    "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+    "license": "CC BY-NC-SA 4.0 DEED"
+  },
+  "groups": {
+    "CAREER": {
+      "classifierName": "Career Exploration",
+      "color": "DodgerBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "EMPLOY": {
+      "classifierName": "Employment Preparation",
+      "color": "DarkGreen",
+      "font": {
+        "color": "white"
+      }
+    },
+    "FOUND": {
+      "classifierName": "Foundation Concepts",
+      "color": "SteelBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "ETHICS": {
+      "classifierName": "Engineering Ethics",
+      "color": "Crimson",
+      "font": {
+        "color": "white"
+      }
+    },
+    "IP": {
+      "classifierName": "Intellectual Property",
+      "color": "DarkRed",
+      "font": {
+        "color": "white"
+      }
+    },
+    "DESIGN": {
+      "classifierName": "Design Process",
+      "color": "DarkGoldenrod",
+      "font": {
+        "color": "white"
+      }
+    },
+    "SYST": {
+      "classifierName": "Systems Thinking",
+      "color": "Teal",
+      "font": {
+        "color": "white"
+      }
+    },
+    "PROP": {
+      "classifierName": "Proposals and Review",
+      "color": "MediumPurple",
+      "font": {
+        "color": "white"
+      }
+    },
+    "PROJMGT": {
+      "classifierName": "Project Management",
+      "color": "DarkSlateBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "COMM": {
+      "classifierName": "Communication and Documentation",
+      "color": "OliveDrab",
+      "font": {
+        "color": "white"
+      }
+    }
+  },
+  "nodes": [
+    {
+      "id": 1,
+      "label": "Engineering Career Research",
+      "group": "CAREER"
+    },
+    {
+      "id": 2,
+      "label": "Engineering Specializations",
+      "group": "CAREER"
+    },
+    {
+      "id": 3,
+      "label": "Field of Interest Selection",
+      "group": "CAREER"
+    },
+    {
+      "id": 4,
+      "label": "Degree Requirements",
+      "group": "CAREER"
+    },
+    {
+      "id": 5,
+      "label": "Engineering Programs",
+      "group": "CAREER"
+    },
+    {
+      "id": 6,
+      "label": "Postsecondary Education Options",
+      "group": "CAREER"
+    },
+    {
+      "id": 7,
+      "label": "College Admissions Process",
+      "group": "CAREER"
+    },
+    {
+      "id": 8,
+      "label": "Professional Certifications",
+      "group": "CAREER"
+    },
+    {
+      "id": 9,
+      "label": "Licensure Requirements",
+      "group": "CAREER"
+    },
+    {
+      "id": 10,
+      "label": "Professional Engineer (PE) License",
+      "group": "CAREER"
+    },
+    {
+      "id": 11,
+      "label": "Engineer in Training (EIT) Exam",
+      "group": "CAREER"
+    },
+    {
+      "id": 12,
+      "label": "Work Portfolio",
+      "group": "EMPLOY"
+    },
+    {
+      "id": 13,
+      "label": "Portfolio Components",
+      "group": "EMPLOY"
+    },
+    {
+      "id": 14,
+      "label": "Resume Writing",
+      "group": "EMPLOY"
+    },
+    {
+      "id": 15,
+      "label": "Cover Letter Writing",
+      "group": "EMPLOY"
+    },
+    {
+      "id": 16,
+      "label": "Job Application Process",
+      "group": "EMPLOY"
+    },
+    {
+      "id": 17,
+      "label": "Engineering Internships",
+      "group": "EMPLOY"
+    },
+    {
+      "id": 18,
+      "label": "Interview Skills",
+      "group": "EMPLOY"
+    },
+    {
+      "id": 19,
+      "label": "Mock Interview Practice",
+      "group": "EMPLOY"
+    },
+    {
+      "id": 20,
+      "label": "Scientific Method",
+      "group": "FOUND"
+    },
+    {
+      "id": 21,
+      "label": "Hypothesis Testing",
+      "group": "FOUND"
+    },
+    {
+      "id": 22,
+      "label": "Engineering Design Process",
+      "group": "FOUND"
+    },
+    {
+      "id": 23,
+      "label": "Engineering vs Science",
+      "group": "FOUND"
+    },
+    {
+      "id": 24,
+      "label": "Engineering Ethics",
+      "group": "ETHICS"
+    },
+    {
+      "id": 25,
+      "label": "Code of Ethics",
+      "group": "ETHICS"
+    },
+    {
+      "id": 26,
+      "label": "Professional Responsibility",
+      "group": "ETHICS"
+    },
+    {
+      "id": 27,
+      "label": "Public Safety in Engineering",
+      "group": "ETHICS"
+    },
+    {
+      "id": 28,
+      "label": "Ethical Decision Making",
+      "group": "ETHICS"
+    },
+    {
+      "id": 29,
+      "label": "Intellectual Property",
+      "group": "IP"
+    },
+    {
+      "id": 30,
+      "label": "Patents",
+      "group": "IP"
+    },
+    {
+      "id": 31,
+      "label": "Copyrights",
+      "group": "IP"
+    },
+    {
+      "id": 32,
+      "label": "Trademarks",
+      "group": "IP"
+    },
+    {
+      "id": 33,
+      "label": "Trade Secrets",
+      "group": "IP"
+    },
+    {
+      "id": 34,
+      "label": "IP Protection and Enforcement",
+      "group": "IP"
+    },
+    {
+      "id": 35,
+      "label": "IP Infringement",
+      "group": "IP"
+    },
+    {
+      "id": 36,
+      "label": "Personal vs Professional Ethics",
+      "group": "ETHICS"
+    },
+    {
+      "id": 37,
+      "label": "Conflict of Interest",
+      "group": "ETHICS"
+    },
+    {
+      "id": 38,
+      "label": "Problem Identification",
+      "group": "DESIGN"
+    },
+    {
+      "id": 39,
+      "label": "Needs Assessment",
+      "group": "DESIGN"
+    },
+    {
+      "id": 40,
+      "label": "Opportunity Recognition",
+      "group": "DESIGN"
+    },
+    {
+      "id": 41,
+      "label": "Systems Thinking",
+      "group": "SYST"
+    },
+    {
+      "id": 42,
+      "label": "System Inputs and Outputs",
+      "group": "SYST"
+    },
+    {
+      "id": 43,
+      "label": "Feedback Loops",
+      "group": "SYST"
+    },
+    {
+      "id": 44,
+      "label": "Subsystem Interactions",
+      "group": "SYST"
+    },
+    {
+      "id": 45,
+      "label": "Design Safety Evaluation",
+      "group": "DESIGN"
+    },
+    {
+      "id": 46,
+      "label": "Safety Standards",
+      "group": "DESIGN"
+    },
+    {
+      "id": 47,
+      "label": "Constraints and Criteria",
+      "group": "DESIGN"
+    },
+    {
+      "id": 48,
+      "label": "Brainstorming Solutions",
+      "group": "DESIGN"
+    },
+    {
+      "id": 49,
+      "label": "Prototype Development",
+      "group": "DESIGN"
+    },
+    {
+      "id": 50,
+      "label": "Testing and Iteration",
+      "group": "DESIGN"
+    },
+    {
+      "id": 51,
+      "label": "Design Optimization",
+      "group": "DESIGN"
+    },
+    {
+      "id": 52,
+      "label": "Proposal Writing",
+      "group": "PROP"
+    },
+    {
+      "id": 53,
+      "label": "Project Proposal Structure",
+      "group": "PROP"
+    },
+    {
+      "id": 54,
+      "label": "Engineering Challenge Definition",
+      "group": "PROP"
+    },
+    {
+      "id": 55,
+      "label": "Proposal Defense",
+      "group": "PROP"
+    },
+    {
+      "id": 56,
+      "label": "Peer Review Process",
+      "group": "PROP"
+    },
+    {
+      "id": 57,
+      "label": "Proposal Review Criteria",
+      "group": "PROP"
+    },
+    {
+      "id": 58,
+      "label": "Constructive Feedback",
+      "group": "PROP"
+    },
+    {
+      "id": 59,
+      "label": "Schedule Development",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 60,
+      "label": "Scheduling Tools",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 61,
+      "label": "Gantt Chart",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 62,
+      "label": "Milestone Planning",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 63,
+      "label": "Cost Estimation",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 64,
+      "label": "Cost-Benefit Analysis",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 65,
+      "label": "Budget Research Methods",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 66,
+      "label": "Project Management",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 67,
+      "label": "Project Management Software",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 68,
+      "label": "Work Breakdown Structure",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 69,
+      "label": "Budget Development",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 70,
+      "label": "Resource Allocation",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 71,
+      "label": "Work Schedule Creation",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 72,
+      "label": "Technical Report Writing",
+      "group": "COMM"
+    },
+    {
+      "id": 73,
+      "label": "Documentation Standards",
+      "group": "COMM"
+    },
+    {
+      "id": 74,
+      "label": "Report Structure",
+      "group": "COMM"
+    },
+    {
+      "id": 75,
+      "label": "Modeling Techniques",
+      "group": "COMM"
+    },
+    {
+      "id": 76,
+      "label": "Simulation Software",
+      "group": "COMM"
+    },
+    {
+      "id": 77,
+      "label": "Risk Identification",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 78,
+      "label": "Risk Analysis",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 79,
+      "label": "Risk Mitigation Strategies",
+      "group": "PROJMGT"
+    },
+    {
+      "id": 80,
+      "label": "Stakeholder Identification",
+      "group": "COMM"
+    },
+    {
+      "id": 81,
+      "label": "Stakeholder Communication",
+      "group": "COMM"
+    },
+    {
+      "id": 82,
+      "label": "Presentation Skills",
+      "group": "COMM"
+    },
+    {
+      "id": 83,
+      "label": "Visual Communication",
+      "group": "COMM"
+    },
+    {
+      "id": 84,
+      "label": "Final Project Presentation",
+      "group": "COMM"
+    },
+    {
+      "id": 85,
+      "label": "Professional Readiness",
+      "group": "EMPLOY"
+    }
+  ],
+  "edges": [
+    {
+      "id": 1,
+      "from": 1,
+      "to": 2
+    },
+    {
+      "id": 2,
+      "from": 1,
+      "to": 3
+    },
+    {
+      "id": 3,
+      "from": 2,
+      "to": 3
+    },
+    {
+      "id": 4,
+      "from": 3,
+      "to": 4
+    },
+    {
+      "id": 5,
+      "from": 4,
+      "to": 5
+    },
+    {
+      "id": 6,
+      "from": 4,
+      "to": 6
+    },
+    {
+      "id": 7,
+      "from": 5,
+      "to": 6
+    },
+    {
+      "id": 8,
+      "from": 6,
+      "to": 7
+    },
+    {
+      "id": 9,
+      "from": 4,
+      "to": 8
+    },
+    {
+      "id": 10,
+      "from": 9,
+      "to": 8
+    },
+    {
+      "id": 11,
+      "from": 4,
+      "to": 9
+    },
+    {
+      "id": 12,
+      "from": 9,
+      "to": 10
+    },
+    {
+      "id": 13,
+      "from": 11,
+      "to": 10
+    },
+    {
+      "id": 14,
+      "from": 4,
+      "to": 11
+    },
+    {
+      "id": 15,
+      "from": 9,
+      "to": 11
+    },
+    {
+      "id": 16,
+      "from": 3,
+      "to": 12
+    },
+    {
+      "id": 17,
+      "from": 14,
+      "to": 12
+    },
+    {
+      "id": 18,
+      "from": 15,
+      "to": 12
+    },
+    {
+      "id": 19,
+      "from": 12,
+      "to": 13
+    },
+    {
+      "id": 20,
+      "from": 3,
+      "to": 14
+    },
+    {
+      "id": 21,
+      "from": 3,
+      "to": 15
+    },
+    {
+      "id": 22,
+      "from": 14,
+      "to": 15
+    },
+    {
+      "id": 23,
+      "from": 14,
+      "to": 16
+    },
+    {
+      "id": 24,
+      "from": 15,
+      "to": 16
+    },
+    {
+      "id": 25,
+      "from": 12,
+      "to": 16
+    },
+    {
+      "id": 26,
+      "from": 16,
+      "to": 17
+    },
+    {
+      "id": 27,
+      "from": 3,
+      "to": 17
+    },
+    {
+      "id": 28,
+      "from": 16,
+      "to": 18
+    },
+    {
+      "id": 29,
+      "from": 18,
+      "to": 19
+    },
+    {
+      "id": 30,
+      "from": 20,
+      "to": 21
+    },
+    {
+      "id": 31,
+      "from": 20,
+      "to": 23
+    },
+    {
+      "id": 32,
+      "from": 22,
+      "to": 23
+    },
+    {
+      "id": 33,
+      "from": 24,
+      "to": 25
+    },
+    {
+      "id": 34,
+      "from": 24,
+      "to": 26
+    },
+    {
+      "id": 35,
+      "from": 25,
+      "to": 26
+    },
+    {
+      "id": 36,
+      "from": 26,
+      "to": 27
+    },
+    {
+      "id": 37,
+      "from": 24,
+      "to": 28
+    },
+    {
+      "id": 38,
+      "from": 25,
+      "to": 28
+    },
+    {
+      "id": 39,
+      "from": 29,
+      "to": 28
+    },
+    {
+      "id": 40,
+      "from": 29,
+      "to": 30
+    },
+    {
+      "id": 41,
+      "from": 29,
+      "to": 31
+    },
+    {
+      "id": 42,
+      "from": 29,
+      "to": 32
+    },
+    {
+      "id": 43,
+      "from": 29,
+      "to": 33
+    },
+    {
+      "id": 44,
+      "from": 29,
+      "to": 34
+    },
+    {
+      "id": 45,
+      "from": 30,
+      "to": 34
+    },
+    {
+      "id": 46,
+      "from": 31,
+      "to": 34
+    },
+    {
+      "id": 47,
+      "from": 32,
+      "to": 34
+    },
+    {
+      "id": 48,
+      "from": 33,
+      "to": 34
+    },
+    {
+      "id": 49,
+      "from": 29,
+      "to": 35
+    },
+    {
+      "id": 50,
+      "from": 34,
+      "to": 35
+    },
+    {
+      "id": 51,
+      "from": 24,
+      "to": 36
+    },
+    {
+      "id": 52,
+      "from": 28,
+      "to": 36
+    },
+    {
+      "id": 53,
+      "from": 36,
+      "to": 37
+    },
+    {
+      "id": 54,
+      "from": 26,
+      "to": 37
+    },
+    {
+      "id": 55,
+      "from": 22,
+      "to": 38
+    },
+    {
+      "id": 56,
+      "from": 38,
+      "to": 39
+    },
+    {
+      "id": 57,
+      "from": 38,
+      "to": 40
+    },
+    {
+      "id": 58,
+      "from": 39,
+      "to": 40
+    },
+    {
+      "id": 59,
+      "from": 22,
+      "to": 41
+    },
+    {
+      "id": 60,
+      "from": 41,
+      "to": 42
+    },
+    {
+      "id": 61,
+      "from": 41,
+      "to": 43
+    },
+    {
+      "id": 62,
+      "from": 42,
+      "to": 43
+    },
+    {
+      "id": 63,
+      "from": 41,
+      "to": 44
+    },
+    {
+      "id": 64,
+      "from": 42,
+      "to": 44
+    },
+    {
+      "id": 65,
+      "from": 43,
+      "to": 44
+    },
+    {
+      "id": 66,
+      "from": 22,
+      "to": 45
+    },
+    {
+      "id": 67,
+      "from": 27,
+      "to": 45
+    },
+    {
+      "id": 68,
+      "from": 46,
+      "to": 45
+    },
+    {
+      "id": 69,
+      "from": 27,
+      "to": 46
+    },
+    {
+      "id": 70,
+      "from": 38,
+      "to": 47
+    },
+    {
+      "id": 71,
+      "from": 39,
+      "to": 47
+    },
+    {
+      "id": 72,
+      "from": 38,
+      "to": 48
+    },
+    {
+      "id": 73,
+      "from": 47,
+      "to": 48
+    },
+    {
+      "id": 74,
+      "from": 48,
+      "to": 49
+    },
+    {
+      "id": 75,
+      "from": 22,
+      "to": 49
+    },
+    {
+      "id": 76,
+      "from": 49,
+      "to": 50
+    },
+    {
+      "id": 77,
+      "from": 45,
+      "to": 50
+    },
+    {
+      "id": 78,
+      "from": 50,
+      "to": 51
+    },
+    {
+      "id": 79,
+      "from": 45,
+      "to": 51
+    },
+    {
+      "id": 80,
+      "from": 38,
+      "to": 52
+    },
+    {
+      "id": 81,
+      "from": 39,
+      "to": 52
+    },
+    {
+      "id": 82,
+      "from": 47,
+      "to": 52
+    },
+    {
+      "id": 83,
+      "from": 52,
+      "to": 53
+    },
+    {
+      "id": 84,
+      "from": 38,
+      "to": 54
+    },
+    {
+      "id": 85,
+      "from": 40,
+      "to": 54
+    },
+    {
+      "id": 86,
+      "from": 52,
+      "to": 55
+    },
+    {
+      "id": 87,
+      "from": 53,
+      "to": 55
+    },
+    {
+      "id": 88,
+      "from": 82,
+      "to": 55
+    },
+    {
+      "id": 89,
+      "from": 55,
+      "to": 56
+    },
+    {
+      "id": 90,
+      "from": 57,
+      "to": 56
+    },
+    {
+      "id": 91,
+      "from": 58,
+      "to": 56
+    },
+    {
+      "id": 92,
+      "from": 52,
+      "to": 57
+    },
+    {
+      "id": 93,
+      "from": 53,
+      "to": 57
+    },
+    {
+      "id": 94,
+      "from": 56,
+      "to": 58
+    },
+    {
+      "id": 95,
+      "from": 57,
+      "to": 58
+    },
+    {
+      "id": 96,
+      "from": 66,
+      "to": 59
+    },
+    {
+      "id": 97,
+      "from": 62,
+      "to": 59
+    },
+    {
+      "id": 98,
+      "from": 59,
+      "to": 60
+    },
+    {
+      "id": 99,
+      "from": 59,
+      "to": 61
+    },
+    {
+      "id": 100,
+      "from": 60,
+      "to": 61
+    },
+    {
+      "id": 101,
+      "from": 66,
+      "to": 62
+    },
+    {
+      "id": 102,
+      "from": 65,
+      "to": 63
+    },
+    {
+      "id": 103,
+      "from": 64,
+      "to": 63
+    },
+    {
+      "id": 104,
+      "from": 63,
+      "to": 64
+    },
+    {
+      "id": 105,
+      "from": 1,
+      "to": 65
+    },
+    {
+      "id": 106,
+      "from": 22,
+      "to": 66
+    },
+    {
+      "id": 107,
+      "from": 41,
+      "to": 66
+    },
+    {
+      "id": 108,
+      "from": 66,
+      "to": 67
+    },
+    {
+      "id": 109,
+      "from": 60,
+      "to": 67
+    },
+    {
+      "id": 110,
+      "from": 66,
+      "to": 68
+    },
+    {
+      "id": 111,
+      "from": 62,
+      "to": 68
+    },
+    {
+      "id": 112,
+      "from": 63,
+      "to": 69
+    },
+    {
+      "id": 113,
+      "from": 64,
+      "to": 69
+    },
+    {
+      "id": 114,
+      "from": 70,
+      "to": 69
+    },
+    {
+      "id": 115,
+      "from": 66,
+      "to": 70
+    },
+    {
+      "id": 116,
+      "from": 68,
+      "to": 70
+    },
+    {
+      "id": 117,
+      "from": 59,
+      "to": 71
+    },
+    {
+      "id": 118,
+      "from": 61,
+      "to": 71
+    },
+    {
+      "id": 119,
+      "from": 62,
+      "to": 71
+    },
+    {
+      "id": 120,
+      "from": 73,
+      "to": 72
+    },
+    {
+      "id": 121,
+      "from": 74,
+      "to": 72
+    },
+    {
+      "id": 122,
+      "from": 73,
+      "to": 74
+    },
+    {
+      "id": 123,
+      "from": 22,
+      "to": 75
+    },
+    {
+      "id": 124,
+      "from": 49,
+      "to": 75
+    },
+    {
+      "id": 125,
+      "from": 75,
+      "to": 76
+    },
+    {
+      "id": 126,
+      "from": 66,
+      "to": 77
+    },
+    {
+      "id": 127,
+      "from": 38,
+      "to": 77
+    },
+    {
+      "id": 128,
+      "from": 77,
+      "to": 78
+    },
+    {
+      "id": 129,
+      "from": 79,
+      "to": 78
+    },
+    {
+      "id": 130,
+      "from": 77,
+      "to": 79
+    },
+    {
+      "id": 131,
+      "from": 78,
+      "to": 79
+    },
+    {
+      "id": 132,
+      "from": 38,
+      "to": 80
+    },
+    {
+      "id": 133,
+      "from": 66,
+      "to": 80
+    },
+    {
+      "id": 134,
+      "from": 80,
+      "to": 81
+    },
+    {
+      "id": 135,
+      "from": 82,
+      "to": 81
+    },
+    {
+      "id": 136,
+      "from": 83,
+      "to": 81
+    },
+    {
+      "id": 137,
+      "from": 82,
+      "to": 83
+    },
+    {
+      "id": 138,
+      "from": 51,
+      "to": 84
+    },
+    {
+      "id": 139,
+      "from": 72,
+      "to": 84
+    },
+    {
+      "id": 140,
+      "from": 81,
+      "to": 84
+    },
+    {
+      "id": 141,
+      "from": 83,
+      "to": 84
+    },
+    {
+      "id": 142,
+      "from": 84,
+      "to": 85
+    },
+    {
+      "id": 143,
+      "from": 19,
+      "to": 85
+    },
+    {
+      "id": 144,
+      "from": 12,
+      "to": 85
+    },
+    {
+      "id": 145,
+      "from": 26,
+      "to": 85
+    }
+  ]
+}

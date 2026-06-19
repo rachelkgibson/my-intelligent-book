@@ -1,0 +1,10 @@
+{
+  "title": "Engineering Practicum IV Honors",
+  "description": "A capstone course in which high school honors students apply the engineering design process to real-world problems, examine ethics and intellectual property, build career readiness skills, and complete an original practicum project.",
+  "creator": "Engineering Practicum IV Honors Course",
+  "date": "2026-06-18",
+  "version": "1.0",
+  "format": "Learning Graph JSON v1.0",
+  "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+  "license": "CC BY-NC-SA 4.0 DEED"
+}
