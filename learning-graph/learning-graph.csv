@@ -1,0 +1,86 @@
+ConceptID,ConceptLabel,Dependencies,TaxonomyID
+1,Engineering Career Research,,CAREER
+2,Engineering Specializations,1,CAREER
+3,Field of Interest Selection,1|2,CAREER
+4,Degree Requirements,3,CAREER
+5,Engineering Programs,4,CAREER
+6,Postsecondary Education Options,4|5,CAREER
+7,College Admissions Process,6,CAREER
+8,Professional Certifications,4|9,CAREER
+9,Licensure Requirements,4,CAREER
+10,Professional Engineer (PE) License,9|11,CAREER
+11,Engineer in Training (EIT) Exam,4|9,CAREER
+12,Work Portfolio,3|14|15,EMPLOY
+13,Portfolio Components,12,EMPLOY
+14,Resume Writing,3,EMPLOY
+15,Cover Letter Writing,3|14,EMPLOY
+16,Job Application Process,14|15|12,EMPLOY
+17,Engineering Internships,16|3,EMPLOY
+18,Interview Skills,16,EMPLOY
+19,Mock Interview Practice,18,EMPLOY
+20,Scientific Method,,FOUND
+21,Hypothesis Testing,20,FOUND
+22,Engineering Design Process,,FOUND
+23,Engineering vs Science,20|22,FOUND
+24,Engineering Ethics,,ETHICS
+25,Code of Ethics,24,ETHICS
+26,Professional Responsibility,24|25,ETHICS
+27,Public Safety in Engineering,26,ETHICS
+28,Ethical Decision Making,24|25|29,ETHICS
+29,Intellectual Property,,IP
+30,Patents,29,IP
+31,Copyrights,29,IP
+32,Trademarks,29,IP
+33,Trade Secrets,29,IP
+34,IP Protection and Enforcement,29|30|31|32|33,IP
+35,IP Infringement,29|34,IP
+36,Personal vs Professional Ethics,24|28,ETHICS
+37,Conflict of Interest,36|26,ETHICS
+38,Problem Identification,22,DESIGN
+39,Needs Assessment,38,DESIGN
+40,Opportunity Recognition,38|39,DESIGN
+41,Systems Thinking,22,SYST
+42,System Inputs and Outputs,41,SYST
+43,Feedback Loops,41|42,SYST
+44,Subsystem Interactions,41|42|43,SYST
+45,Design Safety Evaluation,22|27|46,DESIGN
+46,Safety Standards,27,DESIGN
+47,Constraints and Criteria,38|39,DESIGN
+48,Brainstorming Solutions,38|47,DESIGN
+49,Prototype Development,48|22,DESIGN
+50,Testing and Iteration,49|45,DESIGN
+51,Design Optimization,50|45,DESIGN
+52,Proposal Writing,38|39|47,PROP
+53,Project Proposal Structure,52,PROP
+54,Engineering Challenge Definition,38|40,PROP
+55,Proposal Defense,52|53|82,PROP
+56,Peer Review Process,55|57|58,PROP
+57,Proposal Review Criteria,52|53,PROP
+58,Constructive Feedback,56|57,PROP
+59,Schedule Development,66|62,PROJMGT
+60,Scheduling Tools,59,PROJMGT
+61,Gantt Chart,59|60,PROJMGT
+62,Milestone Planning,66,PROJMGT
+63,Cost Estimation,65|64,PROJMGT
+64,Cost-Benefit Analysis,63,PROJMGT
+65,Budget Research Methods,1,PROJMGT
+66,Project Management,22|41,PROJMGT
+67,Project Management Software,66|60,PROJMGT
+68,Work Breakdown Structure,66|62,PROJMGT
+69,Budget Development,63|64|70,PROJMGT
+70,Resource Allocation,66|68,PROJMGT
+71,Work Schedule Creation,59|61|62,PROJMGT
+72,Technical Report Writing,73|74,COMM
+73,Documentation Standards,,COMM
+74,Report Structure,73,COMM
+75,Modeling Techniques,22|49,COMM
+76,Simulation Software,75,COMM
+77,Risk Identification,66|38,PROJMGT
+78,Risk Analysis,77|79,PROJMGT
+79,Risk Mitigation Strategies,77|78,PROJMGT
+80,Stakeholder Identification,38|66,COMM
+81,Stakeholder Communication,80|82|83,COMM
+82,Presentation Skills,,COMM
+83,Visual Communication,82,COMM
+84,Final Project Presentation,51|72|81|83,COMM
+85,Professional Readiness,84|19|12|26,EMPLOY
