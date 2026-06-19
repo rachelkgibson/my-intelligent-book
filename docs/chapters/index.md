@@ -1,22 +1,37 @@
-# Chapters
+# Assignments
 
-This textbook is organized into 8 chapters covering 85 concepts, aligned to the assignments in Engineering Practicum IV Honors.
+This course has 19 assignment guides covering career exploration, project design, and professional skills across Engineering Practicum IV Honors. Each guide includes instructions, background reading, and resource links. Submit your work through Canvas.
 
-## Chapter Overview
+## Assignment Overview
 
-1. [Engineering Field Exploration](01-engineering-field-exploration/index.md) - Research engineering fields, educational pathways, and professional credentials.
-2. [Engineering Foundations and Industry Examination](02-foundations-and-industry-examination/index.md) - Explore how engineers think and how engineering organizations operate.
-3. [Portfolio and Employment Preparation](03-portfolio-and-employment-preparation/index.md) - Build the documents and skills needed to pursue engineering opportunities.
-4. [Problem Statement, Planning, Ethics, and IP](04-problem-statement-and-planning/index.md) - Define your engineering challenge and understand the ethical and legal responsibilities that guide your work.
-5. [Risk Management](05-risk-management/index.md) - Evaluate design safety and analyze risks before committing to a solution.
-6. [Project Work Schedule and Budget](06-work-schedule-and-budget/index.md) - Plan the timeline and finances needed to complete your practicum project.
-7. [Project Proposal Pitch](07-project-proposal-pitch/index.md) - Write, present, and peer review your engineering project proposal.
-8. [Project Execution, Checkpoints, and Final Presentation](08-project-execution-and-final-presentation/index.md) - Build, document, and present your completed engineering solution.
+1. [Engineering Field Exploration](01-engineering-field-exploration/index.md) — Research engineering fields, educational pathways, and professional credentials.
+2. [Industry Examination](02-foundations-and-industry-examination/index.md) — Explore how engineers think and how engineering organizations operate.
+3. [Portfolio Development](03-portfolio-development/index.md) — Build a professional work portfolio that curates and presents your engineering accomplishments.
+4. [Resume](04-resume/index.md) — Write a one-page professional resume using action verbs and quantifiable results.
+5. [Cover Letter](05-cover-letter/index.md) — Write a targeted cover letter and prepare for the Professional Mock Interview Event.
+6. [Project Topic](06-project-topic/index.md) — Individually brainstorm and select a practicum project topic before groups are formed.
 
-## How to Use This Textbook
+### Project Proposal (Assignments 7–13)
 
-Each chapter aligns to one or more assignments in the course. Complete chapters in order — concepts build on each other, and later chapters assume knowledge from earlier ones. Each chapter includes a full list of concepts from the learning graph so you can track your progress.
+Assignments 7–13 are completed in sequence and compiled into a single Project Proposal document. Each piece is submitted individually and then copy-pasted into the larger proposal.
 
----
+7. [Problem Statement](07-problem-statement/index.md) — Define your engineering challenge with a specific, measurable problem statement.
+8. [Design Requirements](08-design-requirements/index.md) — Formalize the constraints and criteria your solution must meet.
+9. [Project Brainstorming](09-project-brainstorming/index.md) — Generate and evaluate multiple solution concepts.
+10. [Design Sketches](10-design-sketches/index.md) — Produce annotated sketches of your chosen design direction.
+11. [Risk Management & Ethics](11-risk-management-and-ethics/index.md) — Analyze project risks and apply engineering ethics to your design decisions.
+12. [Work Schedule](12-work-schedule/index.md) — Build a Gantt chart schedule for completing your project.
+13. [Budget](13-budget/index.md) — Research costs and develop a bill of materials and project budget.
 
-**Note:** Each chapter index includes a "TODO: Generate Chapter Content" placeholder. Full content will be added chapter by chapter.
+### Project Execution
+
+14. [Project Proposal Pitch](14-project-proposal-pitch/index.md) — Present and defend your complete project proposal to an audience of reviewers.
+15. [Weekly Work Log](15-weekly-work-log/index.md) — Document your project work each week from kickoff through the final presentation.
+16. [Project Checkpoint #1](16-project-checkpoint-1/index.md) — Present a design model at the Design Model Review midpoint check.
+17. [Project Checkpoint #2](17-project-checkpoint-2/index.md) — Present a progress update showing prototype, testing results, and plan to finish.
+18. [Final Project Report](18-final-project-report/index.md) — Write a complete engineering technical report documenting your project.
+19. [Final Project Presentation](19-final-project-presentation/index.md) — Deliver a professional final presentation of your completed engineering solution.
+
+## How to Use This Site
+
+Complete assignments in order — each one builds on the previous. Assignments 7–13 feed into a single Project Proposal document that you compile as you go. The Weekly Work Log (Assignment 15) runs continuously from after the Proposal Pitch through the Final Presentation.

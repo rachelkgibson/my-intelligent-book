@@ -1,0 +1,29 @@
+/* Engineering Practicum IV Honors — custom styles */
+
+/* Wider content area for chapter pages */
+.md-content {
+  max-width: 900px;
+}
+
+/* Style iframes (used by the learning graph viewer) */
+iframe {
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  width: 100%;
+}
+
+/* Prompt admonition for student exercises */
+.md-typeset .admonition.prompt,
+.md-typeset details.prompt {
+  border-color: #ff6d00;
+}
+.md-typeset .prompt > .admonition-title,
+.md-typeset .prompt > summary {
+  background-color: rgba(255, 109, 0, 0.1);
+}
+.md-typeset .prompt > .admonition-title::before,
+.md-typeset .prompt > summary::before {
+  background-color: #ff6d00;
+  -webkit-mask-image: var(--md-admonition-icon--tip);
+  mask-image: var(--md-admonition-icon--tip);
+}

@@ -1,23 +1,72 @@
-site_name: My Docs
+site_name: Engineering Practicum IV Honors
+site_description: An intelligent textbook for Engineering Practicum IV Honors — a high school capstone engineering course covering career exploration, project design, and professional skills.
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: orange
+  features:
+    - content.code.copy
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - navigation.footer
+
+plugins:
+  - search
+  - glightbox
+
+markdown_extensions:
+  - md_in_html
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
+
+extra_css:
+  - css/extra.css
+
+extra_javascript:
+  - js/extra.js
 
 nav:
   - Home: index.md
+  - Course Schedule: schedule.md
   - Course Description: course-description.md
-  - Chapters:
-      - List of Chapters: chapters/index.md
+  - Assignments:
+      - Overview: chapters/index.md
       - 1. Engineering Field Exploration: chapters/01-engineering-field-exploration/index.md
-      - 2. Foundations and Industry Examination: chapters/02-foundations-and-industry-examination/index.md
-      - 3. Portfolio and Employment Preparation: chapters/03-portfolio-and-employment-preparation/index.md
-      - 4. Problem Statement and Planning: chapters/04-problem-statement-and-planning/index.md
-      - 5. Risk Management: chapters/05-risk-management/index.md
-      - 6. Work Schedule and Budget: chapters/06-work-schedule-and-budget/index.md
-      - 7. Project Proposal Pitch: chapters/07-project-proposal-pitch/index.md
-      - 8. Project Execution and Final Presentation: chapters/08-project-execution-and-final-presentation/index.md
+      - 2. Industry Examination: chapters/02-foundations-and-industry-examination/index.md
+      - 3. Portfolio Development: chapters/03-portfolio-development/index.md
+      - 4. Resume: chapters/04-resume/index.md
+      - 5. Cover Letter: chapters/05-cover-letter/index.md
+      - 6. Project Topic: chapters/06-project-topic/index.md
+      - Project Proposal:
+          - 7. Problem Statement: chapters/07-problem-statement/index.md
+          - 8. Design Requirements: chapters/08-design-requirements/index.md
+          - 9. Project Brainstorming: chapters/09-project-brainstorming/index.md
+          - 10. Design Sketches: chapters/10-design-sketches/index.md
+          - 11. Risk Management & Ethics: chapters/11-risk-management-and-ethics/index.md
+          - 12. Work Schedule: chapters/12-work-schedule/index.md
+          - 13. Budget: chapters/13-budget/index.md
+      - 14. Project Proposal Pitch: chapters/14-project-proposal-pitch/index.md
+      - 15. Weekly Work Log: chapters/15-weekly-work-log/index.md
+      - "16. Project Checkpoint #1": chapters/16-project-checkpoint-1/index.md
+      - "17. Project Checkpoint #2": chapters/17-project-checkpoint-2/index.md
+      - 18. Final Project Report: chapters/18-final-project-report/index.md
+      - 19. Final Project Presentation: chapters/19-final-project-presentation/index.md
   - Learning Graph:
       - Introduction: learning-graph/index.md
       - Course Description Assessment: learning-graph/course-description-assessment.md
       - Concept List: learning-graph/concept-list.md
       - Concept Taxonomy: learning-graph/concept-taxonomy.md
       - Taxonomy Distribution Report: learning-graph/taxonomy-distribution.md
+  - Glossary: glossary.md
   - MicroSims:
       - Learning Graph Viewer: sims/graph-viewer/index.md

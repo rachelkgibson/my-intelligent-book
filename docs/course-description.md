@@ -33,13 +33,6 @@ Engineering II with instructor permission, or Engineering III
 9. **Practicum Project Design and Execution** — systems thinking, engineering design process, proposal development, peer review, project management, scheduling, budgeting, cost estimation, modeling and simulation, risk analysis, and stakeholder communication
 10. **Career Preparation** — postsecondary research, certifications and licensure, mock interviews, and technical life skills
 
-## Topics NOT Covered
-
-- Advanced college-level engineering mathematics (calculus, differential equations)
-- Discipline-specific engineering coursework (e.g., civil, electrical, mechanical in depth)
-- Manufacturing or fabrication at an industrial scale
-- Post-secondary coursework content (university-level engineering theory)
-
 ## Learning Outcomes
 
 After this course, students will be able to:
