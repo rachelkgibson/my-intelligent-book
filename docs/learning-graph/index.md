@@ -39,4 +39,3 @@ The 85 concepts are organized into 11 categories:
 - [Concept List](concept-list.md)
 - [Concept Taxonomy](concept-taxonomy.md)
 - [Taxonomy Distribution Report](taxonomy-distribution.md)
-- [Graph Quality Metrics](quality-metrics.md)
