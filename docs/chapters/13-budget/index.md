@@ -89,6 +89,10 @@ The key principle: **real numbers from real sources**, never guesses. Document e
 
 #### Diagram: Budget Estimation Worksheet
 
+
+<iframe src="../../sims/budget-calculator/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Budget Estimation Worksheet Fullscreen](../../sims/budget-calculator/main.html)
+
 <details markdown="1">
 <summary>Interactive Budget Line-Item Calculator</summary>
 Type: MicroSim
@@ -150,6 +154,10 @@ A simple CBA format for your proposal:
 For school projects with budgets under $100, a dollar-for-dollar ROI may not be the main point. What matters is that you can articulate clearly what problem your solution solves and why the cost is justified.
 
 #### Diagram: Cost-Benefit Decision Explorer
+
+
+<iframe src="../../sims/cost-benefit-explorer/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Cost-Benefit Decision Explorer Fullscreen](../../sims/cost-benefit-explorer/main.html)
 
 <details markdown="1">
 <summary>Cost-Benefit Scenario Explorer</summary>

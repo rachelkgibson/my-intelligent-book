@@ -36,6 +36,10 @@ A work package is the fundamental unit of the WBS. It should be small enough to 
 
 #### Diagram: WBS Builder
 
+
+<iframe src="../../sims/wbs-builder/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run WBS Builder Fullscreen](../../sims/wbs-builder/main.html)
+
 <details markdown="1">
 <summary>Interactive Work Breakdown Structure Builder</summary>
 Type: interactive infographic
@@ -102,6 +106,10 @@ Key elements of a Gantt chart include:
 - **Today line** — a vertical line showing the current date, used during execution to compare planned vs. actual progress
 
 #### Diagram: Interactive Gantt Chart Builder
+
+
+<iframe src="../../sims/gantt-chart-builder/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Interactive Gantt Chart Builder Fullscreen](../../sims/gantt-chart-builder/main.html)
 
 <details markdown="1">
 <summary>Interactive Gantt Chart Builder MicroSim</summary>

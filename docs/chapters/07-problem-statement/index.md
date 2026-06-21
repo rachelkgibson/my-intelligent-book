@@ -82,6 +82,10 @@ This statement is specific, measurable, and does not prescribe a particular solu
 
 #### Diagram: Problem Statement Builder
 
+
+<iframe src="../../sims/problem-statement-builder/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Problem Statement Builder Fullscreen](../../sims/problem-statement-builder/main.html)
+
 <details markdown="1">
 <summary>Interactive Problem Statement Builder</summary>
 Type: MicroSim

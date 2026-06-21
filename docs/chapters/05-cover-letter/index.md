@@ -67,6 +67,10 @@ The **job application process** is the sequence of steps between identifying a j
 
 #### Diagram: Job Application Process Flowchart
 
+
+<iframe src="../../sims/job-application-flowchart/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Job Application Process Flowchart Fullscreen](../../sims/job-application-flowchart/main.html)
+
 <details markdown="1">
 <summary>Interactive Job Application Process Flowchart</summary>
 Type: workflow diagram
@@ -136,6 +140,10 @@ Professional behavior during an interview is evaluated before you say a word:
 | Questions for the interviewer | Always have 2–3 thoughtful questions prepared for the end |
 
 #### Diagram: STAR Answer Builder
+
+
+<iframe src="../../sims/star-answer-builder/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run STAR Answer Builder Fullscreen](../../sims/star-answer-builder/main.html)
 
 <details markdown="1">
 <summary>Interactive STAR Answer Builder</summary>

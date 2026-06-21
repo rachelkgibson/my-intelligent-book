@@ -65,6 +65,10 @@ Three principles govern good technical writing:
 
 #### Diagram: Technical Report Self-Assessment Checklist
 
+
+<iframe src="../../sims/report-self-assessment/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Technical Report Self-Assessment Checklist Fullscreen](../../sims/report-self-assessment/main.html)
+
 <details markdown="1">
 <summary>Interactive Technical Report Self-Assessment Checklist</summary>
 Type: interactive infographic

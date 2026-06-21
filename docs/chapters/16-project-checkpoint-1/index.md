@@ -57,6 +57,10 @@ You do not need professional-grade simulation software to satisfy Checkpoint 1. 
 
 #### Diagram: Modeling and Simulation Tool Selector
 
+
+<iframe src="../../sims/modeling-tool-selector/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Modeling and Simulation Tool Selector Fullscreen](../../sims/modeling-tool-selector/main.html)
+
 <details markdown="1">
 <summary>Interactive Modeling Tool Selector</summary>
 Type: interactive infographic

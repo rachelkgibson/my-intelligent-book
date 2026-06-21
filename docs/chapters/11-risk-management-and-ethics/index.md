@@ -40,6 +40,10 @@ These codes are not merely aspirational. Licensed Professional Engineers who vio
 
 #### Diagram: Engineering Ethics Code Explorer
 
+
+<iframe src="../../sims/ethics-code-explorer/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Engineering Ethics Code Explorer Fullscreen](../../sims/ethics-code-explorer/main.html)
+
 <details markdown="1">
 <summary>Interactive Engineering Code of Ethics Comparison</summary>
 Type: interactive infographic
@@ -114,6 +118,10 @@ A **trade secret** is confidential business information that provides a competit
 
 #### Diagram: IP Type Selector
 
+
+<iframe src="../../sims/ip-type-selector/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run IP Type Selector Fullscreen](../../sims/ip-type-selector/main.html)
+
 <details markdown="1">
 <summary>Interactive IP Protection Type Selector</summary>
 Type: interactive infographic
@@ -169,6 +177,10 @@ For high school practicum projects, your design will rarely need to comply with 
 
 #### Diagram: FMEA Process Walkthrough
 
+
+<iframe src="../../sims/fmea-walkthrough/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run FMEA Process Walkthrough Fullscreen](../../sims/fmea-walkthrough/main.html)
+
 <details markdown="1">
 <summary>Interactive FMEA Step-by-Step Walkthrough</summary>
 Type: interactive infographic
@@ -213,6 +225,10 @@ Every identified risk should be recorded in a **risk register** — a table that
 | 5 | Almost certain | Catastrophic |
 
 #### Diagram: Interactive Risk Matrix
+
+
+<iframe src="../../sims/risk-matrix/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Interactive Risk Matrix Fullscreen](../../sims/risk-matrix/main.html)
 
 <details markdown="1">
 <summary>Interactive Risk Matrix — Likelihood × Impact</summary>

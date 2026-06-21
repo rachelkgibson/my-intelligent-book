@@ -1,6 +1,6 @@
 ---
 title: Resume Lab
-description: Students write a professional one-page engineering resume using action verbs, quantifiable results, and the standard section structure used in engineering job applications.
+description: Students brainstorm their experience and skills using a structured worksheet, then write a professional one-page resume using action verbs, quantifiable results, and the standard section structure used in engineering job applications.
 generated_by: claude skill chapter-content-generator
 date: 2026-06-19
 version: 0.09
@@ -10,58 +10,127 @@ version: 0.09
 
 ## Objectives
 
+- Complete a brainstorming worksheet to inventory your education, experience, skills, and activities.
 - Write a one-page professional resume tailored to an engineering internship or job.
 - Apply resume best practices: action verbs, quantified achievements, and clean formatting.
 
 ## Introduction
 
-Your portfolio shows what you can build. Your resume tells the story of who you are as an engineering candidate in a format employers and college admissions offices can scan in seconds. This assignment takes you through the structure, conventions, and craft of writing a strong one-page engineering resume.
+Your portfolio shows what you can build. Your resume tells the story of who you are as an engineering candidate in a format employers and college admissions offices can scan in seconds.
 
-These skills apply far beyond graduation. Internship applications, scholarship applications, and college supplemental materials all use the same format. Building a solid resume now — while you have time to practice — is one of the highest-leverage things you can do in this course.
-
----
-
-## What Is a Resume?
-
-A **resume** is a one-page professional document that summarizes your education, skills, work experience, and relevant achievements for a specific audience — typically an employer or college admissions officer. The word "résumé" comes from French meaning "summary," which captures exactly what it is: a tight, curated snapshot of your professional story.
-
-Two vocabulary terms are central to every strong resume. **Quantifiable results** are achievements expressed with numbers ("increased efficiency by 20%," "designed a structure that held 47 lbs"). **Action verbs** are strong, specific verbs that begin bullet points to show what you *did* rather than what you were *responsible for* — words like *designed*, *analyzed*, *built*, *tested*, *optimized*, and *presented*.
+A resume feels intimidating until you realize it is just an organized version of things you already know about yourself. That is why this assignment starts with brainstorming — before you write a single bullet point, you will inventory everything that belongs on your resume. Once that raw material exists, building the document is straightforward.
 
 ---
 
-## Resume Structure
+## Step 1: Complete the Brainstorming Worksheet
 
-The standard engineering resume is organized into these sections, in this order:
+Before you open a resume template, fill out the Resume Brainstorming Worksheet. This is where you collect the raw material for every section of your resume.
 
-- **Header** — Name, phone, email, and portfolio or LinkedIn URL (no home address required)
-- **Education** — School name, expected graduation year, GPA if 3.5 or above, relevant coursework
-- **Skills** — Technical skills (CAD software, programming languages, lab equipment) and professional skills
-- **Experience** — Internships, jobs, or significant volunteer roles; each entry has 2–4 bullet points beginning with action verbs
-- **Projects** — Class or personal engineering projects (often the most important section for students with limited work experience)
-- **Awards and Activities** — Competitions, student organizations, certifications
+!!! example "Go to the Brainstorming Worksheet"
+    Open the [Resume Brainstorming Worksheet](https://docs.google.com/document/d/1cZ-lBuNJbYQTHdzgbYCnjQj8vh27n1EJj_zUPOTG4SU/edit?usp=sharing) and complete every section before moving on. The more specific your answers, the stronger your resume will be.
+
+The worksheet has seven sections. Here is what each one is asking for and why it matters:
+
+### Education
+
+Write down your expected graduation year, your GPA if you know it, and the classes you have taken that are most relevant to engineering or the job you want. Relevant coursework is especially important if you do not have much work experience yet — it shows employers that you have technical training even before your first internship.
+
+### Work Experience
+
+List any jobs you have held, including part-time or summer work. Even jobs unrelated to engineering can show responsibility, time management, and customer service — all valuable qualities. You will turn each job into 2–3 bullet points on your resume.
+
+### Volunteer Experience
+
+Volunteering counts as experience. If you have helped at a community event, tutored classmates, or worked with a nonprofit, write it down. Volunteer work often demonstrates initiative and character in ways that paid work does not.
+
+### Academic Honors
+
+List any awards, recognitions, scholarships, or academic achievements. Also include any certifications or special training — first aid, a software certification, a summer STEM program. These belong in an Awards and Certifications section on your resume.
+
+### Extracurricular Activities
+
+List clubs, sports, school competitions, and special events you have participated in. Leadership roles within clubs (officer, captain, committee chair) are especially worth noting. Engineering-related activities like robotics, Science Olympiad, or a school makerspace are high-value entries.
+
+### Hard Skills
+
+**Hard skills** are technical, teachable abilities — things you either know how to do or you do not. Review the list on the worksheet and check everything that applies to you honestly:
+
+- Typing, email, Google Docs, Google Spreadsheets
+- Presentations, writing, graphic design, website design
+- Coding, photography, reading music or playing an instrument
+- Speaking a foreign language
+
+On your resume, these go in a Skills section. List only what you can actually do — interviewers sometimes ask you to demonstrate claimed skills.
+
+### Soft Skills
+
+**Soft skills** are personal qualities that describe *how* you work and how you interact with others. The worksheet lists examples:
+
+- Communication, good listener, teamwork, helpful
+- Dependable, responsible, hard working, organized
+- Fast worker, learns quickly, positive attitude, friendly, cheerful
+
+Soft skills do not appear on your resume as a list — instead, you *demonstrate* them through the bullet points in your experience and activities sections. For example, instead of writing "teamwork" as a skill, you write "collaborated with a four-person team to design and test a water filtration prototype."
+
+---
+
+## Step 2: Build Your Resume
+
+With your brainstorming complete, you have everything you need. Now you organize it into a one-page document.
+
+### Resume Structure
+
+The standard engineering resume follows this section order:
+
+| Section | What Goes Here | From Your Worksheet |
+|---|---|---|
+| **Header** | Name, phone, email, portfolio or LinkedIn URL | — |
+| **Education** | School, graduation year, GPA (if 3.5+), relevant coursework | Education |
+| **Skills** | Technical tools, software, languages | Hard Skills |
+| **Experience** | Jobs and volunteer roles with action-verb bullet points | Work Experience, Volunteer Experience |
+| **Projects** | Class or personal engineering projects | Portfolio, class projects |
+| **Awards & Activities** | Competitions, clubs, sports, certifications | Academic Honors, Extracurriculars |
 
 ### The One-Page Rule
 
-A **one-page limit** applies to students and early-career engineers. Hiring managers spend an average of 6–7 seconds scanning a resume before deciding whether to read it closely. White space, consistent formatting, and a clean 11–12 pt font (Calibri, Arial, or Garamond) are not cosmetic concerns — they are functional ones that signal professional judgment.
+Students and early-career engineers always use a one-page resume. Hiring managers spend an average of 6–7 seconds scanning before deciding whether to read closely. If your resume runs long, cut descriptions — do not shrink the font below 11 pt or reduce margins below 0.5 in.
+
+### Action Verbs and Quantifiable Results
+
+Every bullet point in your Experience and Projects sections must begin with a strong **action verb** — a specific, past-tense verb that shows what you *did*:
+
+> *Designed, built, tested, analyzed, presented, led, organized, improved, calculated, programmed, researched, trained, managed*
+
+Avoid "responsible for" or "helped with." These are passive and vague.
+
+Pair each action verb with a **quantifiable result** whenever possible — a number that makes the achievement concrete:
+
+| Weak | Strong |
+|---|---|
+| Helped with the school store | Managed inventory for a school store serving 200+ students daily |
+| Did coding projects | Built three Python programs including a grade calculator used by 30 classmates |
+| Volunteered at food bank | Sorted and distributed 400 lbs of food per shift at a local food bank |
 
 ---
 
 ## Common Resume Mistakes
 
-Before you write, know what to avoid:
-
-| Resume Mistake | Why It Hurts |
+| Mistake | Why It Hurts |
 |---|---|
 | Using "responsible for" instead of action verbs | Sounds passive; doesn't show what you actually did |
-| Missing quantifiable results | Claims aren't credible without supporting numbers |
+| No quantifiable results | Claims aren't credible without numbers |
 | Inconsistent formatting (mixed fonts, sizes) | Signals lack of attention to detail |
-| Including a photo or personal info (age, gender) | Unprofessional in the U.S. context; creates legal risk |
-| Generic objective statement | Wastes prime space; every applicant wants "a challenging position" |
-| More than one page (for students) | Suggests poor judgment about what matters |
+| Including a photo or personal info (age, gender) | Unprofessional in the U.S.; creates legal risk for employers |
+| Generic objective statement | Wastes prime space; every applicant says the same thing |
+| More than one page | Suggests poor judgment about what matters |
 
 ---
 
 #### Diagram: Resume Section Builder
+
+
+<iframe src="../../sims/resume-section-builder/main.html" width="100%" height="554px" scrolling="no"></iframe>
+[Run Resume Section Builder Fullscreen](../../sims/resume-section-builder/main.html)
 
 <details markdown="1">
 <summary>Interactive Resume Section Builder</summary>
@@ -87,20 +156,22 @@ Type: interactive infographic
 
 ---
 
-!!! example "Go to Your Google Doc"
-    Open your Resume document. Complete all sections using the structure above. Every bullet point in your Experience and Projects sections must begin with an action verb and include at least one quantifiable result. Submit through Canvas.
+!!! example "Go to Your Resume Google Doc"
+    Once your brainstorming worksheet is complete, open your Resume Google Doc and build your one-page resume using the structure above. Every bullet point in Experience and Projects must start with an action verb. Submit both the worksheet and the resume through Canvas.
 
 ---
 
 ## Assignment Summary
 
-A strong resume for this course includes:
+A complete Resume Lab submission includes:
 
-- **Header** with name, email, phone, and portfolio link
-- **Education** section with school, grad year, GPA (if 3.5+), and relevant coursework
-- **Skills** section listing specific technical tools and software you can use
-- **Projects** section with 2–4 bullets per project using action verbs and numbers
-- **Experience** section (if applicable) with the same format
-- **Consistent formatting** — one font, one size for body text, clean margins
+1. **Brainstorming Worksheet** — every section filled out with honest, specific details
+2. **One-page resume** with all of the following:
+    - Header with name, email, phone, and portfolio or LinkedIn link
+    - Education section with school, graduation year, GPA (if 3.5+), and 3–5 relevant courses
+    - Skills section listing specific hard skills you can actually demonstrate
+    - Experience and/or Projects section with 2–4 bullets per entry, each starting with an action verb and including at least one number
+    - Awards and Activities section drawn from your academic honors and extracurriculars
+    - Consistent formatting — one font, clean margins, fits on one page
 
-Your resume and cover letter (Assignment 5) work together as a package. What you document here feeds directly into how you frame your experience in your cover letter and in your final project portfolio.
+Your resume and cover letter (Assignment 5) are submitted as a package. The experience and skills you document here feed directly into how you frame yourself in your cover letter and final portfolio.

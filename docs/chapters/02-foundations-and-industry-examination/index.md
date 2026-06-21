@@ -57,6 +57,10 @@ Scientists compare results against a **null hypothesis** — the assumption that
 
 #### Diagram: Hypothesis Testing Decision Tree
 
+
+<iframe src="../../sims/hypothesis-testing-tree/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Hypothesis Testing Decision Tree Fullscreen](../../sims/hypothesis-testing-tree/main.html)
+
 <details markdown="1">
 <summary>Interactive Hypothesis Testing Decision Tree</summary>
 Type: interactive infographic
@@ -121,6 +125,10 @@ Understanding how these two frameworks differ is essential for recognizing which
 One important nuance: engineering often *depends* on science. When a civil engineer designs a bridge, they rely on scientific knowledge about material properties, fluid dynamics, and soil mechanics. But the design decisions — how long, how wide, what materials, what cost — are engineering judgments, not scientific conclusions.
 
 #### Diagram: Venn Diagram — Scientific Method vs. Engineering Design Process
+
+
+<iframe src="../../sims/science-vs-engineering-venn/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Venn Diagram — Scientific Method vs. Engineering Design Process Fullscreen](../../sims/science-vs-engineering-venn/main.html)
 
 <details markdown="1">
 <summary>Interactive Venn Diagram: Scientific Method vs. Engineering Design Process</summary>
@@ -188,6 +196,10 @@ There are two fundamental types of feedback loops:
 Identifying feedback loops in your practicum project's environment — financial, social, technical — will help you anticipate how your solution will behave after implementation.
 
 #### Diagram: Feedback Loop Simulator
+
+
+<iframe src="../../sims/feedback-loop-simulator/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Feedback Loop Simulator Fullscreen](../../sims/feedback-loop-simulator/main.html)
 
 <details markdown="1">
 <summary>Interactive Feedback Loop Simulator</summary>

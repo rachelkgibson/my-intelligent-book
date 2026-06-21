@@ -62,6 +62,10 @@ A well-structured final presentation typically follows this sequence:
 
 #### Diagram: Presentation Planning Tool
 
+
+<iframe src="../../sims/presentation-planner/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Presentation Planning Tool Fullscreen](../../sims/presentation-planner/main.html)
+
 <details markdown="1">
 <summary>Interactive Presentation Planning and Timing Tool</summary>
 Type: interactive infographic

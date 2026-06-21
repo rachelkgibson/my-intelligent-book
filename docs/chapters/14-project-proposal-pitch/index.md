@@ -51,6 +51,10 @@ The standard sections are:
 
 #### Diagram: Interactive Proposal Structure Explorer
 
+
+<iframe src="../../sims/proposal-structure-explorer/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Interactive Proposal Structure Explorer Fullscreen](../../sims/proposal-structure-explorer/main.html)
+
 <details markdown="1">
 <summary>Interactive Proposal Section Guide</summary>
 Type: interactive infographic
@@ -127,6 +131,10 @@ The table below summarizes common slide mistakes and their fixes.
 | Reading the slides word-for-word | You become redundant; audience disengages | Slides are visual anchors — you are the speaker, not the script |
 
 #### Diagram: Slide Quality Analyzer
+
+
+<iframe src="../../sims/slide-quality-analyzer/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Slide Quality Analyzer Fullscreen](../../sims/slide-quality-analyzer/main.html)
 
 <details markdown="1">
 <summary>Slide Quality Self-Check MicroSim</summary>
@@ -231,6 +239,10 @@ The peer review process for the Project Proposal Pitch follows these steps:
 The written rubric is not optional. Oral-only feedback is hard to remember and easy to misinterpret. Written feedback creates a record the presenter can reference when revising their project plan.
 
 #### Diagram: Peer Review Rubric Simulator
+
+
+<iframe src="../../sims/peer-review-rubric/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Peer Review Rubric Simulator Fullscreen](../../sims/peer-review-rubric/main.html)
 
 <details markdown="1">
 <summary>Interactive Peer Review Rubric Simulator</summary>

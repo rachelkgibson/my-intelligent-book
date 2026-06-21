@@ -69,4 +69,31 @@ nav:
       - Taxonomy Distribution Report: learning-graph/taxonomy-distribution.md
   - Glossary: glossary.md
   - MicroSims:
-      - Learning Graph Viewer: sims/graph-viewer/index.md
+    - List of MicroSims: sims/index.md
+    - Budget Estimation Worksheet: sims/budget-calculator/index.md
+    - Cost-Benefit Decision Explorer: sims/cost-benefit-explorer/index.md
+    - Engineering Ethics Code Explorer: sims/ethics-code-explorer/index.md
+    - Feedback Loop Simulator: sims/feedback-loop-simulator/index.md
+    - FMEA Process Walkthrough: sims/fmea-walkthrough/index.md
+    - Hypothesis Testing Decision Tree: sims/hypothesis-testing-tree/index.md
+    - Interactive Gantt Chart Builder: sims/gantt-chart-builder/index.md
+    - Interactive Proposal Structure Explorer: sims/proposal-structure-explorer/index.md
+    - Interactive Risk Matrix: sims/risk-matrix/index.md
+    - IP Type Selector: sims/ip-type-selector/index.md
+    - Job Application Process Flowchart: sims/job-application-flowchart/index.md
+    - Learning Graph Viewer: sims/graph-viewer/index.md
+    - Modeling and Simulation Tool Selector: sims/modeling-tool-selector/index.md
+    - Peer Review Rubric Simulator: sims/peer-review-rubric/index.md
+    - Presentation Planning Tool: sims/presentation-planner/index.md
+    - Problem Statement Builder: sims/problem-statement-builder/index.md
+    - Prototype Iteration Cycle: sims/prototype-iteration-cycle/index.md
+    - Resume Section Builder: sims/resume-section-builder/index.md
+    - Slide Quality Analyzer: sims/slide-quality-analyzer/index.md
+    - STAR Answer Builder: sims/star-answer-builder/index.md
+    - Technical Report Self-Assessment Checklist: sims/report-self-assessment/index.md
+    - Venn Diagram — Scientific Method vs. Engineering Design Process: sims/science-vs-engineering-venn/index.md
+    - WBS Builder: sims/wbs-builder/index.md
+
+
+
+

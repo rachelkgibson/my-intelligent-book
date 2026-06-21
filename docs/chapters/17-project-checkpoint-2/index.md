@@ -51,6 +51,10 @@ After each test, you enter the **iteration** phase — making a targeted change 
 
 #### Diagram: Prototype Iteration Cycle
 
+
+<iframe src="../../sims/prototype-iteration-cycle/main.html" width="100%" height="450px" scrolling="no"></iframe>
+[Run Prototype Iteration Cycle Fullscreen](../../sims/prototype-iteration-cycle/main.html)
+
 <details markdown="1">
 <summary>Interactive Prototype Iteration Cycle</summary>
 Type: MicroSim
